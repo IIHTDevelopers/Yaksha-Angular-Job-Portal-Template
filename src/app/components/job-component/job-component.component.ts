@@ -21,8 +21,6 @@ export class JobComponentComponent {
   isEditing = false;
   searchKeyword = '';
 
-  constructor() { }
-
   ngOnInit(): void {
   }
 
